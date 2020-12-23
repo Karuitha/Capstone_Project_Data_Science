@@ -1,2 +1,2 @@
-# Capstone_Project_Data_Science
+# Movie Recommendation System Using Movielens Data
 Capstone project for the HarvardX Professional Certificate in Data Science Course
